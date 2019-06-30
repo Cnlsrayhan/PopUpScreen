@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CustomPopupScreen</string>
+    <string name="positive_popup_text_default">You have successfully complated the challenge. Keep it up to earn more points.</string>
+    <string name="positive_popup_title_default">Like a boss!</string>
+    <string name="negative_popup_text_default">You have failed to complete the challenge. So Close! Wanna have another go at it? </string>
+    <string name="negative_popup_title_default">Aww... Snap!</string>
+</resources>
